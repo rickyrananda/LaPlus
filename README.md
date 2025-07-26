@@ -36,3 +36,6 @@
 ![INVOICE](https://github.com/user-attachments/assets/d95ba261-f301-44d9-bd59-a94b743cc1e3)
 
 ---
+## NOTES
+
+> Don't forget to rename the appwrite copy file to appwrite.js and fill it with your databases ID
